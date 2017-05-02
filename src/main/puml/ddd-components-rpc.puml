@@ -1,7 +1,5 @@
 @startuml
 
-
-
 node "domain module" {
     package "domain package"  {
         package "model" {
